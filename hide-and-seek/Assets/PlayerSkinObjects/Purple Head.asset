@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97337ce93bac70b4aa2575a67ff574c0, type: 3}
+  m_Name: Purple Head
+  m_EditorClassIdentifier: 
+  idle: {fileID: 8555986406547195007, guid: 968c7fd5f4c04c348b56fdf9399130cf, type: 3}
+  walking1: {fileID: 8485480892855488331, guid: 968c7fd5f4c04c348b56fdf9399130cf, type: 3}
+  walking2: {fileID: -4767620610181958014, guid: 968c7fd5f4c04c348b56fdf9399130cf, type: 3}
+  dead: {fileID: -4137497118832552701, guid: 968c7fd5f4c04c348b56fdf9399130cf, type: 3}

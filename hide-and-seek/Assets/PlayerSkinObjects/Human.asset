@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97337ce93bac70b4aa2575a67ff574c0, type: 3}
+  m_Name: Human
+  m_EditorClassIdentifier: 
+  idle: {fileID: -803138403708184043, guid: 229c61be88203df44b6f93089f5305fd, type: 3}
+  walking1: {fileID: 7491572148825274932, guid: 229c61be88203df44b6f93089f5305fd, type: 3}
+  walking2: {fileID: 7442368852131610188, guid: 229c61be88203df44b6f93089f5305fd, type: 3}
+  dead: {fileID: -5699224588723418104, guid: 229c61be88203df44b6f93089f5305fd, type: 3}
